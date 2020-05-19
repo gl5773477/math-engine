@@ -1,4 +1,4 @@
-module github.com/gl5773477/math-engine
+module engine
 
 go 1.12
 
